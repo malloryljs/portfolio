@@ -75,3 +75,9 @@
 	display: flex;
 	flex-wrap: wrap;
 }
+body{
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+p{
+    font-size:20px;
+}
